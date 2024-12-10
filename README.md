@@ -6,7 +6,6 @@ Setup
 Put your: GOOGLE_CLIENT_ID,
 GOOGLE_CLIENT_SECRET,
 GOOGLE_CALLBACK_URL,
-SESSION_SECRET,
 PORT in .env
 in the backend
 
