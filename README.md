@@ -20,7 +20,6 @@ In another terminal
 4. cd backend
 5. install necessary libraries or packages like Axios, cors, express, express-session, passport, passport-google-oauth20 in the command line
 6. check for the scripts in the package.json file
-7. run the command: npm run dev (will start the backend server using nodemon on the port 5000(default)
 
 # Demonstration
 
